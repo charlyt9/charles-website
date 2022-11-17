@@ -376,6 +376,11 @@ nav .fa-solid{
 
 @media screen and (max-width: 880px) {
 
+    #home {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    
     nav .fa-solid{
         display: block;
         font-size: 20px;
