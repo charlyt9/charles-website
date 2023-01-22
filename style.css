@@ -350,6 +350,7 @@ textarea:valid~label {
     width: 100%;
     color: #000000;
     font-size: 15px;
+    font-weight: bold;
     text-align: center;
     padding: 10px 0;
 }
