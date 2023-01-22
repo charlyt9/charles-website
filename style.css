@@ -334,11 +334,11 @@ textarea:valid~label {
 
 .footer {
     width: 100%;
-    background: #333333;
+    background: #ffffff;
 }
 
 .social-icons {
-    width: 120px;
+    width: 180px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -348,7 +348,7 @@ textarea:valid~label {
 
 .copyright {
     width: 100%;
-    color: #fff;
+    color: #000000;
     font-size: 15px;
     text-align: center;
     padding: 10px 0;
